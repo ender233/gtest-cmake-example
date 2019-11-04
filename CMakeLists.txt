@@ -5,6 +5,7 @@ option(test "Build all tests." OFF) # Makes boolean 'test' available.
 
 # Make PROJECT_SOURCE_DIR, PROJECT_BINARY_DIR, and PROJECT_NAME available.
 set(PROJECT_NAME MyProject)
+set(gtest_SOURCE_DIR "lib/gtest-1.6.0")
 project(${PROJECT_NAME})
 
 set(CMAKE_CXX_FLAGS "-g -Wall")
