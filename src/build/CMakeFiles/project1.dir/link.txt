@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall  -rdynamic CMakeFiles/project1.dir/main.cpp.o  -o project1 /home/liu/Project/gtest-cmake-example/lib/libproject1_lib.a 

@@ -1,0 +1,4 @@
+/home/liu/Project/gtest-cmake-example/src/build/CMakeFiles/rebuild_cache.dir
+/home/liu/Project/gtest-cmake-example/src/build/CMakeFiles/edit_cache.dir
+/home/liu/Project/gtest-cmake-example/src/build/CMakeFiles/project1_lib.dir
+/home/liu/Project/gtest-cmake-example/src/build/CMakeFiles/project1.dir
