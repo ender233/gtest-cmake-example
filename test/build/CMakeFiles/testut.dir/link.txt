@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -Wall  -rdynamic CMakeFiles/testut.dir/test_project1.cpp.o  -o testut  -L/home/liu/Project/gtest-cmake-example/test/../lib -Wl,-rpath,/home/liu/Project/gtest-cmake-example/test/../lib lib/gtest-1.6.0/libgtest.a lib/gtest-1.6.0/libgtest_main.a -lproject1_lib lib/gtest-1.6.0/libgtest.a -lpthread 

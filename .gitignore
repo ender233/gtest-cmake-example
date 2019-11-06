@@ -3,6 +3,9 @@
 *.swp
 *.a
 *.so
+*.o
+*.cmake
+*.log
 build/*
 CMakeLists.txt.user
 CMakeCache.txt
@@ -17,3 +20,6 @@ CTestTestfile.cmake
 _deps
 build
 build/
+*/build/*
+*/build/
+test/build/*

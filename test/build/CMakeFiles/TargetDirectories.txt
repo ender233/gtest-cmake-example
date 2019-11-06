@@ -1,9 +1,0 @@
-/home/liu/Project/gtest-cmake-example/test/build/CMakeFiles/rebuild_cache.dir
-/home/liu/Project/gtest-cmake-example/test/build/CMakeFiles/edit_cache.dir
-/home/liu/Project/gtest-cmake-example/test/build/CMakeFiles/testut.dir
-/home/liu/Project/gtest-cmake-example/test/build/CMakeFiles/test.dir
-/home/liu/Project/gtest-cmake-example/test/build/lib/gtest-1.6.0/CMakeFiles/rebuild_cache.dir
-/home/liu/Project/gtest-cmake-example/test/build/lib/gtest-1.6.0/CMakeFiles/test.dir
-/home/liu/Project/gtest-cmake-example/test/build/lib/gtest-1.6.0/CMakeFiles/gtest.dir
-/home/liu/Project/gtest-cmake-example/test/build/lib/gtest-1.6.0/CMakeFiles/edit_cache.dir
-/home/liu/Project/gtest-cmake-example/test/build/lib/gtest-1.6.0/CMakeFiles/gtest_main.dir

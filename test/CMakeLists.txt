@@ -23,5 +23,5 @@ add_executable(testut test_project1.cpp)
 target_link_libraries(testut gtest gtest_main)
 target_link_libraries(testut project1_lib)
 
-# make test执行UT
+# make test执行UT, 新建测试集名称 还有执行的命令
 add_test(NAME that-test-I-made COMMAND testut)
